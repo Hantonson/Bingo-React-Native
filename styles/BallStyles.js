@@ -16,6 +16,7 @@ const BallStyles = StyleSheet.create({
     ballContainer: {
         width:50,
         height:50,
+        margin: 5,
         borderRadius:50,
         backgroundColor:"#f00",
         alignItems:"center",
